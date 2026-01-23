@@ -11,10 +11,16 @@ A library that generates various kinds of point clouds and coordinates.
 
 
 
-# %% Source code
+# %% Source import
 sources = {
 
 }
+
+
+
+# %% Hidden imports
+if False :
+
 
 
 
